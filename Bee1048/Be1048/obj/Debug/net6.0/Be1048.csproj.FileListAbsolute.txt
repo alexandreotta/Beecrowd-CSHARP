@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\bin\Debug\net6.0\Be1048.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\bin\Debug\net6.0\Be1048.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\bin\Debug\net6.0\Be1048.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\bin\Debug\net6.0\Be1048.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\bin\Debug\net6.0\Be1048.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\Be1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\Be1048.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\Be1048.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\Be1048.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\Be1048.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\refint\Be1048.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\Be1048.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\Be1048.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Be1048\Be1048\obj\Debug\net6.0\ref\Be1048.dll

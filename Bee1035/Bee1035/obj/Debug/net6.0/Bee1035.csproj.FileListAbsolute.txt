@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\Bee1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\Bee1035.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\Bee1035.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\Bee1035.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\bin\Debug\net6.0\Bee1035.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\bin\Debug\net6.0\Bee1035.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\bin\Debug\net6.0\Bee1035.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\bin\Debug\net6.0\Bee1035.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\bin\Debug\net6.0\Bee1035.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\Bee1035.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\refint\Bee1035.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\Bee1035.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\Bee1035.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1035\Bee1035\obj\Debug\net6.0\ref\Bee1035.dll

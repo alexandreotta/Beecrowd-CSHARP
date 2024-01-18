@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\bin\Debug\net6.0\Bee1070.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\refint\Bee1070.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\Bee1070.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1070\Bee1070\obj\Debug\net6.0\ref\Bee1070.dll

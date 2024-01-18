@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\Problema1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\Problema1005.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\Problema1005.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\Problema1005.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\bin\Debug\net6.0\Problema1005.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\bin\Debug\net6.0\Problema1005.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\bin\Debug\net6.0\Problema1005.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\bin\Debug\net6.0\Problema1005.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\bin\Debug\net6.0\Problema1005.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\Problema1005.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\refint\Problema1005.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\Problema1005.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\Problema1005.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1005\Problema1005\obj\Debug\net6.0\ref\Problema1005.dll

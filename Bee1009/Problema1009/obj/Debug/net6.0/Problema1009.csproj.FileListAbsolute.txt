@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\Problema1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\Problema1009.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\Problema1009.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\Problema1009.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\bin\Debug\net6.0\Problema1009.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\bin\Debug\net6.0\Problema1009.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\bin\Debug\net6.0\Problema1009.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\bin\Debug\net6.0\Problema1009.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\bin\Debug\net6.0\Problema1009.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\Problema1009.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\refint\Problema1009.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\Problema1009.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\Problema1009.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1009\Problema1009\obj\Debug\net6.0\ref\Problema1009.dll
