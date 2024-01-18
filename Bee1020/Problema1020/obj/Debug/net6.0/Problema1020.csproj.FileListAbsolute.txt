@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\bin\Debug\net6.0\Problema1020.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\bin\Debug\net6.0\Problema1020.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\bin\Debug\net6.0\Problema1020.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\bin\Debug\net6.0\Problema1020.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\bin\Debug\net6.0\Problema1020.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\Problema1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\Problema1020.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\Problema1020.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\Problema1020.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\Problema1020.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\refint\Problema1020.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\Problema1020.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\Problema1020.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1020\Problema1020\obj\Debug\net6.0\ref\Problema1020.dll

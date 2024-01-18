@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\bin\Debug\net6.0\Bee1117.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\bin\Debug\net6.0\Bee1117.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\bin\Debug\net6.0\Bee1117.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\bin\Debug\net6.0\Bee1117.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\bin\Debug\net6.0\Bee1117.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\Bee1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\Bee1117.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\Bee1117.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\Bee1117.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\Bee1117.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\refint\Bee1117.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\Bee1117.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\Bee1117.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1117\obj\Debug\net6.0\ref\Bee1117.dll

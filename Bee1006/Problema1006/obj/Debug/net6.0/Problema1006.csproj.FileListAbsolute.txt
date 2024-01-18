@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\bin\Debug\net6.0\Problema1006.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\bin\Debug\net6.0\Problema1006.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\bin\Debug\net6.0\Problema1006.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\bin\Debug\net6.0\Problema1006.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\bin\Debug\net6.0\Problema1006.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\Problema1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\Problema1006.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\Problema1006.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\Problema1006.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\Problema1006.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\refint\Problema1006.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\Problema1006.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\Problema1006.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Problema1006\Problema1006\obj\Debug\net6.0\ref\Problema1006.dll

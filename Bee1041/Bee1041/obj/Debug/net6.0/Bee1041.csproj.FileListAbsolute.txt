@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\bin\Debug\net6.0\Bee1041.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\bin\Debug\net6.0\Bee1041.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\bin\Debug\net6.0\Bee1041.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\bin\Debug\net6.0\Bee1041.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\bin\Debug\net6.0\Bee1041.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\Bee1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\Bee1041.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\Bee1041.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\Bee1041.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\Bee1041.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\refint\Bee1041.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\Bee1041.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\Bee1041.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Bee1041\Bee1041\obj\Debug\net6.0\ref\Bee1041.dll

@@ -1,0 +1,14 @@
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\bin\Debug\net6.0\Uri1115.exe
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\bin\Debug\net6.0\Uri1115.deps.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\bin\Debug\net6.0\Uri1115.runtimeconfig.json
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\bin\Debug\net6.0\Uri1115.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\bin\Debug\net6.0\Uri1115.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\Uri1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\Uri1115.AssemblyInfoInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\Uri1115.AssemblyInfo.cs
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\Uri1115.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\Uri1115.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\refint\Uri1115.dll
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\Uri1115.pdb
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\Uri1115.genruntimeconfig.cache
+C:\Users\kaioa\OneDrive\Área de Trabalho\Cursos Udemy\C# Primeiros Passos\Uri1115\obj\Debug\net6.0\ref\Uri1115.dll

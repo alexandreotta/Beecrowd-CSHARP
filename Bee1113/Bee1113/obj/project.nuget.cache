@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hbX61DM+2xRADTVysdgF+PrYuKIhqmA7t9wn0oi5HVdTvrkkWRP0fAQvH3lFh4Yoz5jUuRFM0tjdGHxJS8kArw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaioa\\OneDrive\\Área de Trabalho\\Cursos Udemy\\C# Primeiros Passos\\Bee1113\\Bee1113\\Bee1113.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaioa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kaioa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kaioa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kaioa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
