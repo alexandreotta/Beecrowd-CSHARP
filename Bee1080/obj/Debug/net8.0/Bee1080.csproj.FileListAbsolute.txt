@@ -1,0 +1,14 @@
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\bin\Debug\net8.0\Bee1080.exe
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\bin\Debug\net8.0\Bee1080.deps.json
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\bin\Debug\net8.0\Bee1080.runtimeconfig.json
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\bin\Debug\net8.0\Bee1080.dll
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\bin\Debug\net8.0\Bee1080.pdb
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\Bee1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\Bee1080.AssemblyInfoInputs.cache
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\Bee1080.AssemblyInfo.cs
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\Bee1080.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\Bee1080.dll
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\refint\Bee1080.dll
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\Bee1080.pdb
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\Bee1080.genruntimeconfig.cache
+C:\Users\kaioa\source\repos\Bee1080\Bee1080\obj\Debug\net8.0\ref\Bee1080.dll
