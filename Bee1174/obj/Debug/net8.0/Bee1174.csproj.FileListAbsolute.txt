@@ -1,0 +1,14 @@
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\bin\Debug\net8.0\Bee1174.exe
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\bin\Debug\net8.0\Bee1174.deps.json
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\bin\Debug\net8.0\Bee1174.runtimeconfig.json
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\bin\Debug\net8.0\Bee1174.dll
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\bin\Debug\net8.0\Bee1174.pdb
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\Bee1174.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\Bee1174.AssemblyInfoInputs.cache
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\Bee1174.AssemblyInfo.cs
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\Bee1174.csproj.CoreCompileInputs.cache
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\Bee1174.dll
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\refint\Bee1174.dll
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\Bee1174.pdb
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\Bee1174.genruntimeconfig.cache
+C:\Users\kaioa\source\repos\Bee1174\Bee1174\obj\Debug\net8.0\ref\Bee1174.dll
